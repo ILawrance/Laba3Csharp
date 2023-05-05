@@ -189,7 +189,6 @@ namespace Laba_3_Pochinen
                 return;
             }
         }
-
         public void SetShirina(double shir)
         {
             if (shir < 0)
